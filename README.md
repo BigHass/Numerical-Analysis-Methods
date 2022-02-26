@@ -1,5 +1,5 @@
 # Numerical-Analysis-Methods
-Implementation different numerical analysis methods using  C++
+Different numerical analysis methods using  C++
 
 
 ## Notes
